@@ -1,0 +1,594 @@
+
+
+
+.navbar {
+    background-color: #095BFF;
+}
+.fa{
+    width: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+.fa-facebook{
+    color: white;
+    }
+.fa-twitter{
+    color: white;
+}
+.fa-youtube{
+    color: white;
+}
+.fa-whatsapp{
+    color: greenyellow;
+    background color: greenyellow;
+}
+.button{
+    text-align: center;
+    padding: 5px;
+    }
+#btn{
+    color: rgb(59, 58, 58);
+    text-decoration: none;
+}
+    .HT {
+        color: ivory;
+    }
+
+.menubar{
+        
+        text-align: center;
+        width: 2px;
+        margin-top: 20px;
+}
+
+.menubar ul{
+        color: black;
+        list-style: none;
+        display: inline-flex;
+
+}
+ .menubar ul li {
+     margin-top: 5px;
+            height: 30px;
+            width: 110px;
+            padding: 15px;
+            line-height: 25px;
+            text-align: center;
+            
+ } 
+
+ .dropdown{
+        margin-left: 90px;
+ }
+ .menubar ul li a {
+
+    text-decoration: none;
+    color: black;
+ }
+
+ .active, ul li a:hover {
+        background-color: blue;
+         border-radius: 120px;
+
+        color: white;
+
+}
+
+
+.submenu1{
+        display: none;
+}
+
+.active  :hover .submenu1{
+        display: block;
+        position: absolute;
+
+}
+
+
+ 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cim:before {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    left: 570px;
+    top: 880px;
+}
+.cim:after  {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    right: 570px;
+    top: 880px;
+}
+
+
+
+
+
+marquee{
+    background-color: rgb(6, 112, 252);
+    color: white;
+    padding-top: 5px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.News{
+    color: yellowgreen;
+}
+.Md{
+    color: blue;
+}
+
+.greybg{
+    background-color: rgb(250, 250, 240);
+
+}
+
+.slider{
+        overflow: hidden;
+        height: 400px;
+}
+
+.slider figure div{
+    float: left;
+    width: 20% ;
+
+}
+
+.slider figure img{
+        width: 100%;
+        float: left;
+}
+.slider figure{
+        position: relative;
+        width: 500%;
+        margin: 0px;
+        left: 0;
+        animation: 20s haroon infinite;
+        
+}
+
+@keyframes haroon{
+        0%{
+            left: 0%;
+        }
+        10%{
+            left: 0%;
+        }
+        12%{
+            left: -100%;
+        }
+
+        22%{
+            left: -100%;
+        }
+
+        24%{
+            left: -200%;
+        }
+
+        34%{
+            left: -200%;
+        }
+
+        36%{
+            left: -300%;
+        }
+
+        46%{
+            left: -300%;
+        }
+
+        48%{
+            left: -400%;
+        }
+
+        58%{
+            left: -400%;
+        }
+
+        60%{
+            left: -300%;
+        }
+
+        70%{
+            left: -300%;
+        }
+
+        72%{
+            left: -200%;
+        }
+
+        82%{
+            left: -200%;
+        }
+
+        84%{
+            left: -100%;
+        }
+
+        94%{
+            left: -100%;
+        }
+
+
+        96%{
+            left: 0%;
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    .IT{
+        color: rgb(0, 0, 255);
+        
+    }
+    .ID{
+        color: rgb(156, 255, 7);
+    }
+ .Intro{
+        font-size: 300%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-top: 60px;
+    }
+.dcim:before {
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        left: 570px;
+        top: 1850px;
+    }
+    .dcim:after  {
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        right: 570px;
+        top: 1850px;
+    }
+
+
+.para1{
+
+    margin: 50px 200px 50px 200px;
+    text-align: justify;
+    
+}
+.para2{
+
+    margin: 50px 200px 50px 200px;
+    text-align: justify;
+}
+.para3{
+
+    margin: 50px 200px 50px 200px;
+    text-align: justify;
+}
+.para4{
+
+    margin: 50px 200px 50px 200px;
+    text-align: justify;
+}
+
+
+.table{ 
+    background-color: rgb(6, 93, 255);
+    height: 100px;
+}
+
+
+
+
+.food{
+        color: white;
+        width: 350px;
+        height: 100px;
+        text-align: center;
+        ;
+}
+
+.family{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+
+    .rup{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 50px;
+    }
+.medical{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+.education{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+.month{
+    color:  rgb(156, 255, 7);
+}
+
+.text{
+    margin-top:  10px;
+}
+
+
+.sadqah{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+  
+}
+.adaption{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.doctor{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.khana{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.tap{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+    
+}
+
+.kid{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.dt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    border-spacing: 40px;
+}
+.mission{
+    color: rgb(1, 1, 255);
+    font-size: 180%;
+    line-height: 100px;
+    font-weight: bold;
+}
+.missionline:before  {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    left: 105px;
+    top: 2540px;
+ }
+.dline:before {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    left: 870px;
+    top: 2540px;
+}  
+.gline:before  {
+    content: "";
+    width: 297px;
+    height: 2px;
+    display: block;
+    background-color: rgb(216, 216, 216);
+    position: absolute;
+    left: 920px;
+    top: 2540px;
+}  
+
+.missionmarque{
+    background-color: rgb(255, 255, 255);
+    color: rgb(206, 204, 204);
+}
+
+.missiondetail{
+    color: blue;
+}
+
+.missiontext{
+        color: blue;
+        font-weight: bold;
+        line-height: 70px; 
+}
+.missioncol{
+    width: 350px;
+    height: 80px;
+}
+.missiontable{
+    border-spacing: 30px;
+    margin-left: 70px;
+    
+}
+.missionimg{
+    margin-top: 15px;
+}
+.specific{
+    height: 10px;
+}
+.imagegallery{
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        left: 570px;
+        top: 3250px;
+    }
+    .imggal{
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        right: 570px;
+        top: 3250px;
+    }
+.contactbg{
+    background-color: rgb(70, 66, 66);
+}
+
+.contacticon{
+        color: chartreuse;
+        
+}
+.contactcol1{
+    width: 450px;
+}
+.contactnum{
+    color:  rgb(242, 242, 250);
+s
+}
+
+.caddress{
+    color: rgb(242, 242, 250);
+}
+.contactcol2{
+    
+    color: rgb(242, 242, 250);
+    width: 450px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.contactcol3{
+    width: 450px;
+    color:  rgb(242, 242, 250);
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+.main{
+    color:  rgb(6, 112, 252);
+}
+
+.fb{
+    color: rgb(6, 112, 252);
+}
+.lineh{
+        margin-left: 80px;
+        list-style: none;
+        line-height: 1px;
+}
+.usefullinks{
+  
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+
+}
+span[class=greenline]{
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    left: 600px;
+    top: 3820px;
+
+}
+
+
+}
+.slinks{
+        color: blue;
+}
+.grayline:before{
+    content: "";
+    width: 230px;
+    height: 1px;
+    display: block;
+    background-color: rgb(216, 216, 216);
+    position: absolute;
+    left: 660px;
+    top: 3821px;
+
+}
+
+
+
+
+
+
+.bottom{
+        color: white;
+        height: 50px;
+        margin-top: 50px;
+        background-color: rgba(36, 104, 240, 0.938);
+}
+
+.topbutton{
+        color: gainsboro;
+        height: 60px;
+        width: 50px;
+        position: fixed;
+        bottom: 40px;
+        right: 40px;
+        text-align: center;
+        line-height: 50px;
+        background-color: transparent;
+
+        text-decoration: none;
+
+}
+.topbutton:hover{
+    color: gray;
+}

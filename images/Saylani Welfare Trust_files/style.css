@@ -1,0 +1,258 @@
+
+
+
+.navbar {
+    background-color: #095BFF;
+}
+.fa{
+    width: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+}
+.fa-facebook{
+    color: white;
+    }
+.fa-twitter{
+    color: white;
+}
+.fa-youtube{
+    color: white;
+}
+.fa-whatsapp{
+    color: greenyellow;
+    background color: greenyellow;
+}
+.UK{
+    width: 50%;
+    text-align: center;
+    cursor: pointer;
+    }
+    .HT {
+        color: ivory;
+    }
+.menu ul li{
+    list-style: none;
+}
+
+   .menu ul li:hover{
+        
+      background-color: blue;
+  
+
+  }
+    .menu ul li{
+
+    background-color: tomato;
+    height: 50px;
+    width: 100px;
+    line-height: 50px;
+    text-align: center;
+    float: left;
+    color: white;
+    border-collapse: collapse;
+    
+    }
+ 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cim:before {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    left: 570px;
+    top: 390px;
+}
+.cim:after  {
+    content: "";
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: chartreuse;
+    position: absolute;
+    right: 570px;
+    top: 390px;
+}
+
+
+
+
+
+marquee{
+    background-color: rgb(6, 112, 252);
+    color: white;
+    padding-top: 5px;
+}
+.News{
+    color: yellowgreen;
+}
+.Md{
+    color: blue;
+}
+
+div{
+    background-color: rgb(250, 250, 240);
+
+}
+
+
+    .IT{
+        color: rgb(0, 0, 255);
+        
+    }
+    .ID{
+        color: rgb(156, 255, 7);
+    }
+ .Intro{
+        font-size: 300%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-top: 60px;
+    }
+.dcim:before {
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        left: 570px;
+        top: 1350px;
+    }
+    .dcim:after  {
+        content: "";
+        width: 60px;
+        height: 2px;
+        display: block;
+        background-color: chartreuse;
+        position: absolute;
+        right: 570px;
+        top: 1350px;
+    }
+
+
+.para1{
+
+    margin: 50px 200px 50px 200px;
+    
+}
+.para2{
+
+    margin: 50px 200px 50px 200px;
+}
+.para3{
+
+    margin: 50px 200px 50px 200px;
+}
+.para4{
+
+    margin: 50px 200px 50px 200px;
+}
+
+
+.table{ 
+    background-color: rgb(6, 93, 255);
+    height: 100px;
+}
+
+
+
+
+.food{
+        color: white;
+        width: 350px;
+        height: 100px;
+        text-align: center;
+        ;
+}
+
+.family{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+
+    .rup{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 50px;
+    }
+.medical{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+.education{
+    color: white;
+    width: 350px;
+    text-align: center;
+}
+.month{
+    color:  rgb(156, 255, 7);
+}
+
+.text{
+    margin-top:  10px;
+}
+
+
+.sadqah{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+  
+}
+.adaption{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.doctor{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.khana{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.tap{
+    width: 350px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+    
+}
+
+.kid{
+    width: 350px;
+    height: 200px;
+    text-align: center;
+    font-size: 150%;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+.dt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    border-spacing: 40px;
+}
+
+
+
